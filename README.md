@@ -3,8 +3,6 @@ Show Image
 
 Show Image
 
-Show Image
-
 </div>
 
 👨‍💻 About Me
@@ -52,26 +50,19 @@ Show Image
 Show Image
 
 
-🌐 Currently Exploring
-
-Show Image
-Show Image
-Show Image
-
-
 🤝 Connect with Me
 
 <a href="https://www.instagram.com/anaskixg/" title="Instagram" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="Instagram" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28"/>
 </a>&nbsp;&nbsp;
 <a href="https://github.com/mranas07" title="GitHub" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </a>&nbsp;&nbsp;
 <a href="https://mranas07.github.io/Personal-Portfolio/" title="Portfolio" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" height="30"/>
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" height="28"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:anusamir45@gamil.com" title="Email" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28"/>
 </a>
 
 Show Image
